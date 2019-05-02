@@ -1,6 +1,6 @@
 # procesarFacturacion
 
-Realizar:
+## Realizar:
 
 a. Recibir una colección de pedidos, realizar facturación
 b. Recibir una lista de facturas a anular y Realizar la cancelación de pedidos
@@ -10,8 +10,9 @@ siguiente formato:
 d. Listar los patrones utilizados y la justificación de uso    
 
 ## NOTAS:
-A y B estan recibiendo de la misma fuente informacion
-No me quedo claro que tiene que hacer B por eso hice un proceso parecido al A. O sea,
+
+1 - A y B estan recibiendo de la misma fuente informacion
+2 - No me quedo claro que tiene que hacer B por eso hice un proceso parecido al A. O sea,
 que se imprima en el punto C.
 
 
