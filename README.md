@@ -14,3 +14,5 @@
     
     2.3- Ejecutar la siguiente linea de comando: java -jar   procesar.facturar.pedidos-1.0.0.jar
     
+    2.4- 
+    
