@@ -2,12 +2,12 @@
 
 ## Realizar:
 
-a. Recibir una colección de pedidos, realizar facturación
-b. Recibir una lista de facturas a anular y Realizar la cancelación de pedidos
-c. Proveer un método que Genere un informe de la operatoria del día con el
+a - Recibir una colección de pedidos, realizar facturación
+b - Recibir una lista de facturas a anular y Realizar la cancelación de pedidos
+c - Proveer un método que Genere un informe de la operatoria del día con el
 siguiente formato:
    Cliente-Tipo de Documento-Letra-Nro-Fecha de emisión-Monto
-d. Listar los patrones utilizados y la justificación de uso    
+d - Listar los patrones utilizados y la justificación de uso    
 
 ## NOTAS:
 
