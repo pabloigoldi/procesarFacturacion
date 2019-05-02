@@ -1,0 +1,6 @@
+Juan Lopez|211#Balcarce 50#1#1#22332112|111*jabon*234.1*2#112*toalla*211.11*1
+Pablo I|111#Rivadavia 1001#1#1#22313412|114*detergente*34.1*1#113*medias*211.21*2#115*pantalon*1211.21*3
+Jose Luis|421#Belgrano 1001#1#1#22313412|114*detergente*34.1*1#113*medias*211.21*10#115*pantalon*1211.21*3
+Maria Celeste|143#Mitre 1001#1#1#22313412|114*detergente*34.1*1#113*medias*211.21*7#115*pantalon*1211.21*6
+Carlos Adrian|1433#Corrientes 1001#1#1#22313412|114*detergente*34.1*1#113*medias*211.21*4#115*pantalon*1211.21*6
+Julio albrto|933#Cordoba 1001#1#1#22313412|114*detergente*34*1#113*medias*211*13#2*pantalon*1211.21*6
